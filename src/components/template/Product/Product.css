@@ -1,0 +1,190 @@
+.breadcrumb{
+    background-color: #403d3d;
+    padding: 5px 5px 1px 5px !important;
+}
+.breadcrumb-item.active {
+    color: #e10098 !important;
+}
+section.o-product__detail {
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: auto;
+    min-height: 500px;
+    box-shadow: rgb(0 0 0 / 10%) 0px 2px 4px 0px;
+    display: flex;
+    align-items: stretch;
+}
+section.o-product__detail > .container {
+    display: grid;
+    grid-template-columns: 7fr 2px 2.8fr;
+    grid-template-rows: 1fr;
+    padding: 0px;
+}
+section.o-product__detail > .container main {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-template-rows: 1fr;
+    padding: 0px;
+    height: auto;
+}
+main {
+    -webkit-box-flex: 1;
+    flex: 1 0 auto;
+}
+section.o-product__detail .a-product__separator {
+    background: rgb(245, 245, 245);
+    width: 100%;
+    margin: 30px 0px 55px;
+}
+section.o-product__detail .o-product__purchase, section.o-product__detail .o-product__purchase > aside.o-product__productInfo {
+    width: 100%;
+}
+.GeoTopMargin {
+    margin-top: 10px !important;
+}
+section.o-product__detail .o-product__image {
+    height: auto;
+    width: 100%;
+    padding: 5% 0px 5% 5%;
+}
+.pzlcontainermain {
+    width: 100%;
+    float: left;
+    min-height: 400px;
+    position: relative;
+}
+.pzlcontainerthumbs > ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 0px;
+}
+.verticalSlider___34ZFD {
+    position: relative;
+    overflow: hidden;
+}
+.pzlcontainerthumbs.pzlContainerLeft {
+    width: 53px;
+    height: 430px;
+}
+.verticalSlideTrayWrap___2nO7o {
+    overflow: hidden;
+    height: 0px;
+    padding-bottom: 450%;
+    width: 100%;
+}
+.sliderAnimation___300FY {
+    transition: transform 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+    will-change: transform;
+    transform: translateY(0%) translateY(0px);
+    width: 100%;
+    flex-direction: column;
+}
+.sliderTray___-vHFQ {
+    display: block;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.verticalTray___12Key {
+    float: left;
+}
+.pzlcontainerthumbs > ul li {
+    width: 53px;
+    height: 70px;
+    margin: 0px 0px 6px;
+    padding: 0px;
+    opacity: 0.6;
+    display: inline-block;
+    cursor: pointer;
+}
+.slide___3-Nqo {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    height: 0px;
+    margin: 0px;
+    list-style-type: none;
+    width: 100%;
+    padding-bottom: 150%;
+}
+.slideInner___2mfX9 {
+    height: auto;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+}
+.carousel img {
+    width: 100%;
+}
+.pzlcontainerviewer {
+    position: relative;
+    width: 78%;
+    height: 100vh;
+    max-height: 615px;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: start;
+    overflow: hidden;
+    justify-content: center;
+}
+.pzlcontainerviewer img{
+   height:300px;
+   width: 100%;
+}
+.pzlcontainerthumbs {
+    position: relative;
+    float: left;
+    overflow: hidden;
+    margin-right: 30px;
+}
+.m-product__information--code {
+    font-size: 0.75rem;
+    color: rgb(51, 51, 51);
+    margin-bottom: 0px;
+}
+section.o-product__detail .o-product__description {
+    padding: 7% 7% 7% 0px;
+    width: 100%;
+}
+.a-product__information--title {
+    font-size: 1.25rem;
+    color: rgb(51, 51, 51);
+}
+
+
+@media only screen and (max-width: 991px){
+section.o-product__detail {
+    background: rgb(255, 255, 255);
+    height: auto;
+}
+section.o-product__detail > .container {
+    width: 100%;
+    overflow: hidden;
+    display: grid;
+    grid-template-rows: auto 2px auto;
+    grid-template-columns: 100%;
+    padding: 0px 15px 1rem;
+}
+section.o-product__detail > .container main {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto auto;
+    padding-bottom: 0px;
+}
+section.o-product__detail > .container .a-product__separator {
+    margin: 0px 1em;
+    width: auto;
+    background: rgb(255, 255, 255);
+}
+section.o-product__detail .o-product__purchase {
+    width: 100%;
+    padding-top: inherit;
+    padding-right: inherit;
+    padding-left: inherit;
+    padding-bottom: 0px;
+}
+
+}

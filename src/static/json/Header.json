@@ -1,0 +1,35 @@
+[
+ {
+        "Menu_Item": "Domain 1",
+        "Action": "https://www.abcd.com/home"
+      },
+      {
+        "Menu_Item": "Domain 2",
+        "Action": "https://www.xyz.com/home"
+      },
+   {
+        "Menu_Item": "Domain 3",
+        "Action": "https://www.xyz.com/home"
+      },
+{
+        "Menu_Item": "Domain 4",
+        "Action": "https://www.xyz.com/home"
+      },
+   {
+        "Menu_Item": "Domain 5",
+        "Action": "https://www.xyz.com/home"
+      },
+   {
+        "Menu_Item": "Domain 6",
+        "Action": "https://www.xyz.com/home"
+      },
+   {
+        "Menu_Item": "Domain 7",
+        "Action": "https://www.xyz.com/home"
+      },
+      {
+        "logintext": "Login",
+        "myshopping": "Shop Now",
+        "Action": "/ProductList"
+    }  
+]

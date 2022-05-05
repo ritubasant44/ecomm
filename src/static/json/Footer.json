@@ -1,0 +1,134 @@
+
+[
+    {
+    "Footer_ID" : "1",
+    "Footer_Text" : "Customer Support",
+    "Has_SubItem" : true,
+    "Active_Status" : true,
+    "Footer_Type" : "FooterMenu",
+    "Action" : "https://www.abcd.com/support",
+    "SubItem" : [
+        {
+        "Footer_ID" : "101",
+        "Footer_Text" : "Billing",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/billing"       
+    },
+    {
+        "Footer_ID" : "102",
+        "Footer_Text" : "Help",
+        "Active_Status" : true,
+        "Has_SubItem1" : false,
+        "Action" : "https://www.abcd.com/Help"
+         
+    },
+    {
+        "Footer_ID" : "103",
+        "Footer_Text" : "My Shopping",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/Shopping"
+         
+    },
+    {
+        "Footer_ID" : "104",
+        "Footer_Text" : "Warrenty",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/Warrenty"
+         
+    }
+]
+},
+{
+    "Footer_ID" : "2",
+    "Footer_Text" : "Services",
+    "Has_SubItem" : false,
+    "Active_Status" : true,
+    "Footer_Type" : "FooterMenu",
+    "Action" : "https://www.abcd.com/services",
+    "SubItem" : [
+        {
+        "Footer_ID" : "201",
+        "Footer_Text" : "Credit",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/Credit"       
+    },
+    {
+        "Footer_ID" : "202",
+        "Footer_Text" : "Cellphone Minutes",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/Cellphone"
+         
+    },
+    {
+        "Footer_ID" : "203",
+        "Footer_Text" : "Promotions",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/promotions"
+         
+    },
+    {
+        "Footer_ID" : "204",
+        "Footer_Text" : "Interior Design",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/Design"
+         
+    }
+]
+},
+{
+    "Footer_ID" : "3",
+    "Footer_Text" : "About",
+    "Has_SubItem" : false,
+    "Active_Status" : true,
+    "Footer_Type" : "FooterMenu",
+    "Action" : "https://www.abcd.com/About",
+    "SubItem" : [
+        {
+        "Footer_ID" : "301",
+        "Footer_Text" : "Job Bank",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/Job"       
+    },
+    {
+        "Footer_ID" : "302",
+        "Footer_Text" : "About Us",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/About"
+         
+    },
+    {
+        "Footer_ID" : "303",
+        "Footer_Text" : "Investors Relations",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/Investors"
+         
+    },
+    {
+        "Footer_ID" : "304",
+        "Footer_Text" : "Sustainability",
+        "Active_Status" : true,
+        "Has_SubItem" : false,
+        "Action" : "https://www.abcd.com/Sustainability"
+         
+    }
+]
+},
+{
+    "subtext": "Subscribe our Newsletter",
+    "phone": "Sales by phone 555262-9999",
+    "yourcellphone": "From your cell phone *7171",
+    "contactus": "Contact us via ",
+    "WhatsApp": "WhatsApp",
+    "orbyphone": "or by phone at 5552629999"
+}
+]

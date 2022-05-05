@@ -1,0 +1,15 @@
+Header.json- Domain Section
+information.json- Searchbar Content
+Submenuitem.json- Categories Dropdown
+secondleveladd.json- Advertisement below Submenu Section
+common.json- Common text json for all banners and other text
+
+
+New API requirements:
+
+Footer.json- Footer data
+slickslider1.json- Slide Data
+Product.json- Example of Sample data for Product page
+
+
+

@@ -1,0 +1,36 @@
+[
+  {
+    "title": "Categories",
+    "submenu": [
+      {
+        "title": "Grocery"
+      },
+      {
+        "title": "Electronics",
+        "submenu": [
+          {
+            "title": "Mobile Phone"
+          },
+          {
+            "title": "Laptop",
+            "submenu": [
+              {
+                "title": "HP"
+              },
+              {
+                "title": "Dell"
+              }
+            ]
+          }
+        ]
+      },
+   
+      {
+        "title": "Fashion"
+      }
+    ]
+  },
+  {
+    "title": "Gift card"
+  }
+]

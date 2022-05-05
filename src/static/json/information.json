@@ -1,0 +1,99 @@
+ 
+[
+    {
+      "id": 1,
+      "imgPath": "/assets/img/1.png",
+      "name": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "address": "New Delhi, India",
+      "url" : "/Product"
+    },
+    {
+      "id": 2,
+      "imgPath": "/assets/img/2.png",
+      "name": "Mary Rosamund",
+      "email": "agra@rosie.com",
+      "address": "Tbilisi, India",
+      "url" : "def.com"
+    },
+    {
+      "id": 3,
+      "imgPath": "/assets/img/3.png",
+      "name": "Sherlock Watson",
+      "email": "irene@johnlock.com",
+      "address": "Baker Street, India"
+    },
+    {
+      "id": 4,
+      "imgPath": "/assets/img/4.png",
+      "name": "John Holmes",
+      "email": "mary@johnlock.com",
+      "address": "Baker Street, India",
+      "url" : "abc.com"
+    },
+    {
+      "id": 5,
+      "imgPath": "/assets/img/5.png",
+      "name": "Mycroft Lestrade",
+      "email": "britishgovt@gmail.com",
+      "address": "London, India",
+      "url" : "abc.com"
+    },
+    {
+      "id": 6,
+      "imgPath": "/assets/img/5.png",
+      "name": "Mycroft Lestrade",
+      "email": "britishgovt@gmail.com",
+      "address": "London, India",
+      "url" : "abc.com"
+    },
+    {
+      "id": 7,
+      "imgPath": "/assets/img/5.png",
+      "name": "Mycroft Lestrade",
+      "email": "britishgovt@gmail.com",
+      "address": "London, India",
+      "url" : "abc.com"
+    },
+    {
+      "id": 8,
+      "imgPath": "/assets/img/5.png",
+      "name": "Mycroft Lestrade",
+      "email": "britishgovt@gmail.com",
+      "address": "London, India",
+      "url" : "abc.com"
+    },
+    {
+      "id": 9,
+      "imgPath": "/assets/img/5.png",
+      "name": "Mycroft Lestrade",
+      "email": "britishgovt@gmail.com",
+      "address": "London, India",
+      "url" : "abc.com"
+    },
+    {
+      "id": 10,
+      "imgPath": "/assets/img/5.png",
+      "name": "Mycroft Lestrade",
+      "email": "britishgovt@gmail.com",
+      "address": "London, India",
+      "url" : "abc.com"
+    },
+    {
+      "id": 11,
+      "imgPath": "/assets/img/5.png",
+      "name": "Mycroft Lestrade",
+      "email": "britishgovt@gmail.com",
+      "address": "London, India",
+      "url" : "abc.com"
+    },
+    {
+      "id": 12,
+      "imgPath": "/assets/img/5.png",
+      "name": "Mycroft Lestrade",
+      "email": "britishgovt@gmail.com",
+      "address": "London, India",
+      "url" : "abc.com"
+    }
+
+  ]

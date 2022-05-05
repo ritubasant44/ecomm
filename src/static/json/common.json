@@ -1,0 +1,76 @@
+ 
+[
+    
+   {  
+       "logodetails": {
+            "logoimgPath": "https://i.pinimg.com/originals/37/1e/b8/371eb8c837dd490e29cfd5290e9e640b.jpg",
+            "LogoAction": "home.js",
+            "imagedesc": "Website Logo"
+        },
+       "topheader":{
+           "h1text": "Children's Furniture",
+           "ptext": "For children and adults, from the classic to the most innovative",
+           "bannerpercent": "50%",
+           "stext1": "Until",
+           "stext2": "off",
+           "topbimage": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/abril22/bc_130422mue.jpg"
+           } ,
+       "secondbanner": {
+        "bannerdesc": "Most functional and innovative products of the moment",
+        "bannerdisc": "up to 20% discount",
+        "itemdeschead": "Tablets",
+        "bannerheaddesc": "The best interaction tool",
+        "itemdeschead2": "Video games",
+        "bannerheaddesc2": "Hours of fun in the place you choose",
+        "secondbimage1": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/abril22/bpromo01c_240422pan.jpg",
+        "secondbimage2": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/abril22/bpromo01d_240422ele.jpg",
+        "secondbimage3": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/abril22/bpromo02c_130422nino.jpg",
+        "secondbimage4": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/abril22/bpromo01b_130422vid.jpg"
+    },
+   
+       "thirdbanner": {
+         "thirdbanner_product": " It's time to wear your favorite look for the first time",
+        "thirdbanner_disc": "Up to 15% off",
+        "thirdbimage1": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/abril22/bpromo02d_130422toms.jpg",
+        "thirdbimage2": "https://assetspwa.liverpool.com.mx/assets/digital/home/img/abril22/bpromo01a_130422tab.jpg"
+    },
+    
+        "thirdbannerdesc": {
+        "thirdbanner_imageonehead": "Girls clothing",
+        "thirdbanner_imageonepara": "Comfort on every adventure",
+        "thirdbanner_imagetwohead": "Shoes",
+        "thirdbanner_imagetwopara": "Conquer the world at every turn",
+        "thirdbanner_imagethreehead": "Children's clothing ",
+        "thirdbanner_imagethreepara": "Dress for fun"
+        },
+        
+            "thirdbannerlink":
+            {
+                "thirdbannerlink1": "Women",
+                "thirdbannerlink2": "Clildren",
+                "thirdbannerlink3": "Men"
+            }, 
+            "footerlink"    :
+            {
+                "subtext": "Subscribe our Newsletter",
+                "phone": "Sales by phone 555262-9999",
+                "yourcellphone": "From your cell phone *7171",
+                "contactus": "Contact us via ",
+                "WhatsApp": "WhatsApp",
+                "orbyphone": "or by phone at 5552629999",
+                "footerComment": "Comments and suggestions:",
+                "footeremail": "ecommercefrontend@abc.com",
+                "terms": "Terms and Conditions",
+                "notice": "Notice of Privacy",
+                "sitemap": "Site Map",
+                "Action_profeco": "https://distintivodigital.profeco.gob.mx/consulta.php?serie=DA21DFA3022111",
+                "profeco_img": "https://assetspwa.liverpool.com.mx/assets/images/Distintivo_Digital_DA21DFA3022111.svg?dis",
+                "Action_facebook": "www.facebook.com",
+                "Action_linkedin": "www.linkedin.com",
+                "Action_instagram": "www.instagram.com",
+                "misc": "Price in red applies the highest discount, promotions may differ from those published in the store Images shown are for illustrative purposes, parts are sold separately 2022 Liverpool / All rights reserved DR ®"
+
+            } 
+}
+  
+]
