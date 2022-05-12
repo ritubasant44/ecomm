@@ -1,0 +1,321 @@
+[{
+    "id": "101",
+    "Product":"1001",
+    "Categories": "Home & Kitchen",
+    "Appliances":"Air Conditioner",
+    "acUrl": "/Product",
+    "Color":"Red",
+    "Itemweight":"72pounds",
+    "Manufacturer":"Sealy",
+    "About": "Split AC with inverter compressor: variable speed compressor which adjusts power depending on heat load. It is most energy efficient and has lowest-noise operation",
+    "HeaderTitle":"LG 1.5 Ton 5 Star AI DUAL Inverter Split AC (Copper, Super Convertible 6-in-1 Cooling, HD Filter with Anti-Virus Protection, 2022 Model, PS-Q19YNZE, White)",
+    "Starrating":"4",
+    "Queries":"1090",
+    "MRP":"19090",
+    "Price":"22982",
+    "offer_price": "13000",
+    "Discount":"15%",
+    "Dimensions": ["1L", "X", "3W", "5H", "2", "3"],
+    "Quantity":["1", "2", "3", "4", "5"],
+    "Style":["soft","medium","firm"],
+    "Size":["Queen","Twin XL","King","California King","Twin","Full"],
+    "Warranty":"10",
+    "imgpath":"/products/images/Product104_Image_1.jpg",
+    "Ratings":{
+        "OverallRating": "3.9",
+        "StarRating": {
+            "Star5": "543",
+            "Star4": "96",
+            "Star3": "12",
+            "Star2": "68",
+            "Star1": "25"
+        }
+    },
+    "MediaUrls": 
+    [
+        {"Style": "Convertible ",
+        "Urls": [
+            {"url":"/products/images/Product104_Image_1.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product101_Image_2.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product101_Image_3.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product101_Image_4.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product101_Image_5.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product101_Image_6.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product101_Image_7.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product101_Image_8.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product101_Image_9.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product101_Image_10.jpg","MediaType":"Image"}
+            ]}
+    ],
+    "Features": {
+        "Powersource":"coded electric",
+        "Brand":"LG",
+        "Modelname":"PS-Q19YNZE",
+        "Specialfeature":"Cooling Inverter compressor, Convertible, High Density Filter, Remote Control, Dust Filter, Adjustable, Auto Clean, Dehumidifier, Fast Cooling",
+        "Seasonalenergy":"4.73",
+        "Description":"testing"
+    },
+    "Customerqueries":[{
+        "Questions":"",
+        "Answers":""
+        },{
+        "Questions":"",
+        "Answers":""
+    },{
+        "Questions":"",
+        "Answers":""
+    
+    }],
+
+    "withExchange": "Upto ₹5000 Off",
+    "withoutExchange": "₹13000",
+    "deliveryDate": "May 30th, 11AM-6PM",
+    "sold by": "DAWNTECH ELECTRONICS PRIVATE LIMITED",
+    "otherBuyOptions": "1400",
+    "countryOfOrigin": "Japan"
+
+},
+{
+    "id": "102",
+    "Product":"1002",
+    "Categories": "Fashion",
+    "Appliances":"Shirt",
+    "Color":"Red",
+    "Manufacturer":"Woodland",
+    "About": "Split AC with inverter compressor: variable speed compressor which adjusts power depending on heat load. It is most energy efficient and has lowest-noise operation",
+    "HeaderTitle":"Fashion Clothes",
+    "Starrating":"4",
+    "Queries":"1090",
+    "MRP":"19090",
+    "Price":"3276",
+    "offer_price": "2309",
+    "Discount":"15%",
+    "Quantity":["1", "2", "3", "4", "5"],
+    "Style":["soft","medium","firm"],
+    "Size":["S", "M", "L", "2XL", "3XL"],
+    "Ratings":{
+        "OverallRating": "4.2",
+        "StarRating": {
+            "Star5": "468",
+            "Star4": "46",
+            "Star3": "45",
+            "Star2": "765",
+            "Star1": "43"
+        }
+    },
+    "MediaUrls": 
+    [
+        {"Color": "Red",
+        "Urls": [
+            {"url":"/products/images/Product102_Image_1.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product102_Image_2.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product102_Image_3.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product102_Image_4.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product102_Image_5.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product102_Image_6.jpg","MediaType":"Image"}
+        ]},
+        {"Color": "Meroon",
+        "Urls": [
+            {"url":"/products/images/Product102_Image_1M.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product102_Image_2M.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product102_Image_3M.jpg","MediaType":"Image"}
+        ]}
+    ],    
+    "Features": {
+        "Powersource":"coded electric",
+        "Brand":"LG",
+        "Modelname":"PS-Q19YNZE",
+        "Specialfeature":"CoolingInverter compressor, Convertible, High Density Filter, Remote Control, Dust Filter, Adjustable, Auto Clean, Dehumidifier, Fast Cooling",
+        "Seasonalenergy":"4.73",
+        "Description":"testing"
+    },
+    "Customerqueries":[{
+        "Questions":"",
+        "Answers":""
+        },{
+        "Questions":"",
+        "Answers":""
+    },{
+        "Questions":"",
+        "Answers":""
+    
+    }]
+},
+{
+    "id": "103",
+    "Product":"1003",
+    "Categories": "Electronics",
+    "Appliances":"Mobile",
+    "Color":"Black",
+    "Manufacturer":"Apple",
+    "HeaderTitle":"Mobile Phones",
+    "Starrating":"5",
+    "Queries":"1090",
+    "MRP":"19090",
+    "Price":"1983",
+    "offer_price": "1544",
+    "Discount":"15%",
+    "Quantity":["1", "2", "3", "4", "5"],
+    "Style":["soft","medium","firm"],
+    "Size":["S", "M", "L", "2XL", "3XL"],
+    "Ratings":{
+        "OverallRating": "4.7",
+        "StarRating": {
+            "Star5": "365",
+            "Star4": "43",
+            "Star3": "55",
+            "Star2": "95",
+            "Star1": "37"
+        }
+    },
+    "MediaUrls": 
+    [
+        {"Style": "iPhone iOS",
+        "Urls": [
+            {"url":"/products/images/Product103_Image_1.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product103_Image_2.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product103_Image_3.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product103_Image_4.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product103_Image_5.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product103_Image_6.jpg","MediaType":"Image"},
+            {"url":"/products/images/Product103_Image_7.jpg","MediaType":"Image"}
+        ]}
+    ],    "Features": {
+        "Powersource":"electric",
+        "Brand":"Apple",
+        "Modelname":"iPhone 13",
+        "Specialfeature":"CoolingInverter compressor, Convertible, High Density Filter, Remote Control, Dust Filter, Adjustable, Auto Clean, Dehumidifier, Fast Cooling",
+        "Seasonalenergy":"4.73",
+        "Description":"testing"
+    },
+    "Customerqueries":[{
+        "Questions":"",
+        "Answers":""
+        },{
+        "Questions":"",
+        "Answers":""
+    },{
+        "Questions":"",
+        "Answers":""
+    }]
+},
+{
+    "id": "104",
+    "Product":"1004",
+    "Categories": "Electronics",
+    "Appliances":"Sound Bar",
+    "Color":"Black",
+    "Manufacturer":"Apple",
+    "HeaderTitle":"Sound Bar",
+    "Starrating":"5",
+    "Queries":"1090",
+    "MRP":"19090",
+    "Price":"2468",
+    "offer_price": "1933",
+    "Discount":"15%",
+    "Quantity":["1", "2", "3", "4", "5"],
+    "Style":["soft","medium","firm"],
+    "Size":["S", "M", "L", "2XL", "3XL"],
+    "Ratings":{
+        "OverallRating": "4.3",
+        "StarRating": {
+            "Star5": "986",
+            "Star4": "96",
+            "Star3": "65",
+            "Star2": "75",
+            "Star1": "15"
+
+        }
+    },
+    "MediaUrls": [{
+        "Urls": [
+        {"url":"/products/images/Product104_Image_1.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product104_Image_2.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product104_Image_3.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product104_Image_4.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product104_Image_5.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product104_Image_6.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product104_Image_7.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product104_Image_8.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product104_Image_9.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product104_Image_10.jpg","MediaType":"Image"}
+    ]}],
+    "Features": {
+        "Powersource":"electric",
+        "Brand":"Apple",
+        "Modelname":"iPhone 13",
+        "Specialfeature":"CoolingInverter compressor, Convertible, High Density Filter, Remote Control, Dust Filter, Adjustable, Auto Clean, Dehumidifier, Fast Cooling",
+        "Seasonalenergy":"4.73",
+        "Description":"testing"
+    },
+    "Customerqueries":[{
+        "Questions":"",
+        "Answers":""
+        },{
+        "Questions":"",
+        "Answers":""
+    },{
+        "Questions":"",
+        "Answers":""
+    
+    }]
+},
+{
+    "id": "105",
+    "Product":"1004",
+    "Categories": "Electronics",
+    "Appliances":"Headset",
+    "Color":"Black",
+    "Manufacturer":"Apple",
+    "HeaderTitle":"Sound Bar",
+    "Starrating":"5",
+    "Queries":"1090",
+    "MRP":"19090",
+    "Price":"2468",
+    "offer_price": "2298",
+    "Discount":"15%",
+    "Quantity":["1", "2", "3", "4", "5"],
+    "Style":["soft","medium","firm"],
+    "Size":["S", "M", "L", "2XL", "3XL"],
+    "Ratings":{
+        "OverallRating": "4.3",
+        "StarRating": {
+            "Star5": "986",
+            "Star4": "96",
+            "Star3": "65",
+            "Star2": "75",
+            "Star1": "15"
+
+        }
+    },
+    "MediaUrls": [{
+        "Urls": [
+        {"url":"/products/images/Product105_Image_1.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product105_Image_2.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product105_Image_3.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product105_Image_4.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product105_Image_5.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product105_Image_6.jpg","MediaType":"Image"},
+        {"url":"/products/images/Product105_Image_7.jpg","MediaType":"Image"}
+    ]}],
+    "Features": {
+        "Powersource":"electric",
+        "Brand":"Apple",
+        "Modelname":"iPhone 13",
+        "Specialfeature":"CoolingInverter compressor, Convertible, High Density Filter, Remote Control, Dust Filter, Adjustable, Auto Clean, Dehumidifier, Fast Cooling",
+        "Seasonalenergy":"4.73",
+        "Description":"testing"
+    },
+    "Customerqueries":[{
+        "Questions":"",
+        "Answers":""
+        },{
+        "Questions":"",
+        "Answers":""
+    },{
+        "Questions":"",
+        "Answers":""
+    
+    }]
+}
+]
