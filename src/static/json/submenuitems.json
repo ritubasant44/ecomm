@@ -32,5 +32,9 @@
   },
   {
     "title": "Gift card"
+  },
+  {
+    "title": "Shop Now",
+    "Action": "/ProductList"
   }
 ]

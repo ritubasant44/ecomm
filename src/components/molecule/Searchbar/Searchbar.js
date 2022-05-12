@@ -1,17 +1,20 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
+import {Link} from 'react-router-dom';
 import SearchIcon from "@material-ui/icons/Search";
 import CloseIcon from '@material-ui/icons/Close';
+import { useParams } from "react-router";
 import "./Searchbar.css";
 
 function Searchbar() {
+  const { id } = useParams();
   const [posts, setPosts] = useState([]);
   const [searchTitle, setSearchTitle] = useState("");
   const [searchShow, setSearchShow] = useState(false); 
 
   useEffect(() => {
     const loadPosts = async () => {
-      const response = await axios.get("http://localhost:9090/getproduct");
+      const response = await axios.get(`http://localhost:9090/ecomm/products`);
       setPosts(response.data);
       console.log(response);
     }
@@ -26,6 +29,7 @@ function Searchbar() {
       setSearchShow(true);
     }
     setSearchTitle(event.target.value)
+
 }
 
   const clearInput = () => {
@@ -52,21 +56,21 @@ function Searchbar() {
         </div>
       {
         searchShow ? (
-          posts.filter((value) => 
-          {
+          posts.filter(value => {
             if(searchTitle === "") {
               return value;
             } else 
             if(value.Appliances.toLowerCase().includes(searchTitle.toLowerCase())) {
               return value;
             }
+            else return null;
           }
           )
           .map((post, key) =>  
           <div className="dataresult">
-            <a href={post.acUrl}>
+            <Link to={`ProductList/Product/${post.id}`}>
              <li className="dataitem" key={post.Product}>{post.Appliances} </li>
-             </a>
+             </Link>
           </div>
           
           )

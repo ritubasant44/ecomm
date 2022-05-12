@@ -11,14 +11,18 @@
     font-size: 0.67rem;
     color: #3b3b3b;
     margin-right: 10px;
+    font-weight: bold;
 }
 .m-searchBar{
     color: #fff;
 }
 .o__header{
-    background-color: #e10098;
+    background-color: #326024;
     min-height: 56px;
     position: relative;
+}
+.o__header .navbar{
+  padding-top: 0rem !important;
 }
 .a-header__logo {
     width: auto;
@@ -196,6 +200,7 @@
   .menu-items button {
     text-align: left;
     padding: 0.7rem 1rem;
+    font-weight: bold;
   }
   
   .menu-items a:hover,

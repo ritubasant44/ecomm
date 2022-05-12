@@ -48,7 +48,6 @@ const Slickslider = (props) => {
                 <p className="a-card-description description-size">
                   {record.desc}
                 </p>
-                <a href="#" className="">Hello</a>
                 <div className="d-flex flex-row m-ca-card-price align-items-center">
                   <p className="a-card-price">
                     {record.price}

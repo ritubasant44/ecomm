@@ -1,5 +1,4 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HeaderDomain from "../../molecule/HeaderDomain";
 import Searchbar from "../../molecule/Searchbar/Searchbar";
 import Submenu from "../../molecule/Submenu";

@@ -4,8 +4,8 @@ import Header from "../../organism/header/Header";
 import HomeBody from "../../template/HomeBody";
 import Footer from '../../organism/Footer/Footer';
 import Product from '../../template/Product/Product';
-import ProductList from '../../molecule/ImageGallery/ProductList';
-import ProductDetails from '../../molecule/ImageGallery/ProductDetails';
+import ProductList from '../../molecule/ProductSections/ProductList';
+// import ProductDetails from '../../molecule/ImageGallery/ProductDetails';
 
 class Home extends React.Component {
   render() {
@@ -15,9 +15,8 @@ class Home extends React.Component {
         <Header />
         <Routes>
             <Route exact path="/" element={<HomeBody />} />
-            <Route exact path="/Product" element={<Product />} /> 
             <Route exact path="/ProductList" element={<ProductList />} />
-            <Route exact path="/Product/:id" element={<ProductDetails />} />           
+            <Route exact path="ProductList/Product/:id" element={<Product />} />           
           </Routes>
         <Footer />
       </React.Fragment>

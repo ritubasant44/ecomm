@@ -1,0 +1,35 @@
+/* .container .imgcontainer{
+    position: relative;
+    float: left;
+    overflow: hidden;
+    margin-right: 30px;
+    margin-top: -24px;
+}
+.container{
+    position: relative;
+}
+.container .imgcontainer ul{
+        list-style: none;
+        margin: 0px;
+        padding: 0px;
+        position: absolute;
+        top: 0px;
+}
+.container .selected{
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    border: 5px solid rgb(56, 13, 210);
+}
+.container .imgcontainer img {
+    width: 100px;
+    height: 100px;
+    margin: 5px 0;
+} */
+.pzlcontainerthumbs > ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    top: 0px;
+}
